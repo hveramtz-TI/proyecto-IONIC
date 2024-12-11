@@ -1,0 +1,7 @@
+{
+  "name": "Kanban",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
